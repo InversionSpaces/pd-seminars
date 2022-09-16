@@ -1,0 +1,3 @@
+[submodule "ParallelComputationExamples"]
+	path = ParallelComputationExamples
+	url = git@github.com:akhtyamovpavel/ParallelComputationExamples.git
